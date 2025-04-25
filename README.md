@@ -26,7 +26,7 @@ Passionate and results-driven Flutter Developer with over 4 years of experience 
 - Reviewed code and ensured best practices across the dev team.
 - Managed deployment to both the Google Play Store and App Store.
 
-**Android Native Developer**  
+**Android Native Developer**   
 *Mandalay, Myanmar*  
 *Jan 2019 – Dec 2020*  
 - Developed a new version of the "Correct Me" language exchange app using Java and XML.
@@ -37,9 +37,10 @@ Passionate and results-driven Flutter Developer with over 4 years of experience 
 
 ### **Projects**
 
-**Rangoon Success App (RSA)**
-*Learning Platform | 2022 – 2023*  
+**Rangoon Success App (RSA)**  
+*Learning Platform | 2022 – 2023*    
 [AppStore](https://apps.apple.com/us/app/rangoon-success-app/id6469684512)  | [PlayStore](https://play.google.com/store/apps/details?id=com.rsa.mobile&hl=en-US)
+
 - Built a custom Flutter **video caching package** using M3U8.
 - Integrated payments: App Store, Google Play Store, and KBZ Auto Pay.
 - Enabled **Social Sign-In** with major platforms.
@@ -68,9 +69,9 @@ Passionate and results-driven Flutter Developer with over 4 years of experience 
 ### **Technical Skills**
 
 **Languages:** Dart, Java, Go  
-**Frameworks/Tools:** Flutter, Firebase, Git/GitHub, Supabase  , Prisma
-**Databases:** MySQL, SQLite , NoSQL
-**Specialties:** Mobile App Security, Unit Testing, Rich UI/UX, WebSocket, Server-Sent Events (SSE)
+**Frameworks/Tools:** Flutter, Firebase, Git/GitHub, Supabase  , Prisma   
+**Databases:** MySQL, SQLite , NoSQL   
+**Specialties:** Mobile App Security, Unit Testing, Rich UI/UX, WebSocket, Server-Sent Events (SSE) 
 
 ---
 
