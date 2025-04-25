@@ -1,0 +1,12 @@
+@media (max-width: 768px) {
+    .profile-pic {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    }
+  }
+
+  a[href*="github.com/hlakyawhtay"] {
+    display: none;
+  }
+  
