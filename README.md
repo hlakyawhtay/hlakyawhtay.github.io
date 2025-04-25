@@ -1,6 +1,6 @@
 **HLA KYAW HTAY**  
 **Mobile App Developer**  
-oochanbg@gmail.com | +66817101442 | [GitHub](https://github.com/hlakyawhtay) | [LinkedIn](https://linkedin.com/in/oochan)  
+hlakyawhtay@protonmail.com | +66817101442 | [GitHub](https://github.com/hlakyawhtay) | [LinkedIn](https://linkedin.com/in/oochan)  
 
 ---
 
