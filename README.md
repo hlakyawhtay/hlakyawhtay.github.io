@@ -73,7 +73,7 @@ Mandalay Technological University — Mandalay, Myanmar
 ---
 
 ### **Certifications & Online Presence**
-- GitHub: [github.com/jhonsnoww](https://github.com/hlakyawhtay)
+- GitHub: [github.com/hlakyawhtay](https://github.com/hlakyawhtay)
 - Nexcode Portfolio: [nexcode.com.mm](https://nexcode.com.mm/)
 
 ---
