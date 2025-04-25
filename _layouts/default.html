@@ -17,7 +17,7 @@
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" class="align_center" />
         {% endif %}
-        <h1 class="center-title"><a href="{{ "/" | absolute_url }}">{{ HLA KYAW HTAY | default: site.github.repository_name }}</a></h1>
+        <h1 class="center-title"><a href="{{ "/" | absolute_url }}">{{ site.title | default: HLA KYAW HTAY }}</a></h1>
 
       </header>
       <section>
