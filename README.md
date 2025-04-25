@@ -1,4 +1,3 @@
-**HLA KYAW HTAY**  
 **Mobile App Developer**  
 hlakyawhtay@protonmail.com | +66817101442 | [GitHub](https://github.com/hlakyawhtay) | [LinkedIn](https://linkedin.com/in/oochan)  
 
