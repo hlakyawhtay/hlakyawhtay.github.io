@@ -1,6 +1,6 @@
 **HLA KYAW HTAY**  
 **Mobile App Developer**  
-oochanbg@gmail.com | +66817101442 | [GitHub](https://github.com/jhonsnoww) | [LinkedIn](https://linkedin.com/in/HlaKyawHtay)  
+oochanbg@gmail.com | +66817101442 | [GitHub](https://github.com/hlakyawhtay) | [LinkedIn](https://linkedin.com/in/oochan)  
 
 ---
 
@@ -73,7 +73,7 @@ Mandalay Technological University — Mandalay, Myanmar
 ---
 
 ### **Certifications & Online Presence**
-- GitHub: [github.com/jhonsnoww](https://github.com/jhonsnoww)
+- GitHub: [github.com/jhonsnoww](https://github.com/hlakyawhtay)
 - Nexcode Portfolio: [nexcode.com.mm](https://nexcode.com.mm/)
 
 ---
