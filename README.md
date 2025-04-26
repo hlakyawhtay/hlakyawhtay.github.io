@@ -37,22 +37,23 @@ Passionate and results-driven Flutter Developer with over 4 years of experience 
 
 ### **Projects**
 
+**SarPhat** — [Website](https://www.sarphat.com/)  
+[AppStore](https://apps.apple.com/mm/app/sarphat/id6448984171) | [PlayStore](https://play.google.com/store/apps/details?id=com.nexcode.sarphat) 
+*Reader/Writer Platform | 2023 – 2024*  
+- Integrated KBZPay's **Java (Android)** and **Objective-C (iOS)** libraries in a reusable Flutter package.
+- Developed **RichTextEditor**, a highly customizable text editing component.
+
 **Rangoon Success App (RSA)**  
 *Learning Platform | 2022 – 2023*    
 [AppStore](https://apps.apple.com/us/app/rangoon-success-app/id6469684512)  | [PlayStore](https://play.google.com/store/apps/details?id=com.rsa.mobile&hl=en-US)
 
+- Built a custom video player with full functionality.
 - Built a custom Flutter **video caching package** using M3U8.
 - Integrated payments: App Store, Google Play Store, and KBZ Auto Pay.
 - Enabled **Social Sign-In** with major platforms.
 
-**SarPhat** — [Website](https://www.sarphat.com/)  
-[AppStore](https://apps.apple.com/mm/app/sarphat/id6448984171) | [PlayStore](https://play.google.com/store/apps/details?id=com.nexcode.sarphat) 
-*Reader/Writer Platform | 2020 – 2022*  
-- Integrated KBZPay's **Java (Android)** and **Objective-C (iOS)** libraries in a reusable Flutter package.
-- Developed **RichTextEditor**, a highly customizable text editing component.
-
 **Panora** — [App Store](https://apps.apple.com/us/app/panora-online-bookstore/id6449066307) | [Play Store](https://play.google.com/store/apps/details?id=com.nexcode.panora)  
-*Online Bookstore | 2020 – Present*  
+*Online Bookstore | 2021 – 2022*  
 - Developed and maintained a cross-platform bookstore app.
 - Optimized UX and improved performance across devices.
 
@@ -70,12 +71,10 @@ Passionate and results-driven Flutter Developer with over 4 years of experience 
 
 **Languages:** Dart, Java, Go  
 **Frameworks/Tools:** Flutter, Firebase, Git/GitHub, Supabase  , Prisma   
-**Databases:** MySQL, SQLite , NoSQL   
+**Databases:** MySQL, SQLite , NoSQL , MongoDB  
 **Specialties:** Mobile App Security, Unit Testing, Rich UI/UX, WebSocket, Server-Sent Events (SSE) 
 
 ---
 
 **Personal Note**  
 I’m passionate about creating fast, secure, and user-centric applications that bring value to everyday users. I thrive in collaborative, product-driven environments and enjoy solving complex technical challenges.
-
-
